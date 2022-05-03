@@ -25,4 +25,4 @@ store = Store.create(
   womens_apparel: false
 )
 
-puts Store.count;
+puts Store.count
